@@ -1,21 +1,15 @@
-    A passionate developer who’s grateful for all things opensource.
+    A passionate developer who’s grateful for all things open-source.
 
 ## Hello World!
 
-> <span style="font-size: .9em;">Opensource software has played a pivotal role in my life. Providing this self-taught developer with countless opportunities to grow both personally and professionally. In an effort to give back I’m creating new opensource projects while contributing to those I care about whenever possible. This presents a unique opportunity for my children to get a glimpse what has driven my career and digital direction all these years.</span>
-
-<div>
-<div style="float: left; width: 50%;">
+Open-source software has played a pivotal role in my life. Providing this self-taught developer with countless opportunities to grow both personally and professionally. In an effort to give back I’m creating new open-source projects while contributing to those I care about whenever possible. This presents a unique opportunity for my children to get a glimpse what has driven my career and digital direction all these years.
 
 **About**
 
-- 🧘‍♂️ Daily meditation
-- 📜 Smart contract research
+- 🧘‍♂️ Increasing mindfulness with daily meditation
+- 📜 Researching smart contracts
 - 🍃 Wim Hof
 - 🤝 He/Him
-</div>
-
-<div style="float: right; width: 50%;">
 
 **Contact**
 
@@ -23,9 +17,6 @@
 - 💼 [Linkedin](https://www.linkedin.com/in/carmelosantana/)
 - 📢 [Twitter](https://twitter.com/carmelosantana)
 - 🌎 [Website](https://carmelosantana.com/)
-
-</div>
-</div>
 
 ## Latest Projects
 
@@ -43,7 +34,7 @@ PHP library to build valid Auto-Lead Data Format ADF/XML leads.
 
 <img src="https://camo.githubusercontent.com/65522ac697e0f242d0dfad4e6b2bf3bcbe49eb9118f01c2957d27fc353723add/68747470733a2f2f6361726d656c6f73616e74616e612e636f6d2f77702d636f6e74656e742f75706c6f6164732f73697465732f382f323032302f31312f726f6b2d6d6f6e737465722d636c692d76302e322e302e706e67" width="100%" />
 
-WordPress powered [website](https://rokmonster.com/) and [opensource CLI tools](https://github.com/carmelosantana/rok-monster-cli) which analyze screenshots and video from [Rise of Kingdoms](https://rok.lilithgames.com/en). Extracting various data points such as governor power, deaths, kills and more.
+A WordPress powered [website](https://rokmonster.com/) backed by [open-source CLI tools](https://github.com/carmelosantana/rok-monster-cli) to analyze screenshots and video from [Rise of Kingdoms](https://rok.lilithgames.com/en). Extracting various data points such as governor power, deaths, kills and more.
 
 `PHP` `FFmpeg` `Tesseract` `Bash`
 
@@ -59,4 +50,4 @@ Bash scripts to help automate provisioning Linux (Ubuntu/Debian) servers. Custom
 
 ---
 
-<center><span style="font-size: .8em;">Made with ♥ in NY</span></center>
+<span style="font-size: .7em;">Made with ♥ in NY</span>
