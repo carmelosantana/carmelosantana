@@ -2,7 +2,7 @@
 
 ## Hello World!
 
-Open-source software has played a pivotal role in my life. Providing this self-taught developer with countless opportunities to grow both personally and professionally. In an effort to give back I’m creating new open-source projects while contributing to those I care about whenever possible. This presents a unique opportunity for my children to get a glimpse what has driven my career and digital direction all these years.
+Open-source software has played a pivotal role in my life. Providing this self-taught developer with countless opportunities to grow both personally and professionally. In an effort to give back I’m creating new open-source projects while contributing to those I care about whenever possible. This presents a unique opportunity for my children to get a glimpse of what has driven my career and digital direction all these years.
 
 **About**
 
