@@ -13,7 +13,7 @@ Open-source software has played a pivotal role in my life. Providing this self-t
 
 **Contact**
 
-- 🤙 ‪[+1 (845) 476-8916](tel:+1845-476-8916)
+- 🤙 ‪<a href="tel:+1845-476-8916">+1 (845) 476-8916</a>
 - 💼 [Linkedin](https://www.linkedin.com/in/carmelosantana/)
 - 📢 [Twitter](https://twitter.com/carmelosantana)
 - 🌎 [Website](https://carmelosantana.com/)
