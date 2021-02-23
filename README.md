@@ -11,6 +11,13 @@ Open-source software has played a pivotal role in my life. Providing this self-t
 - 🍃 Wim Hof
 - 🤝 He/Him
 
+**Software**
+
+- ⌨ [`PHP`](https://github.com/carmelosantana?tab=repositories&q=&type=&language=php) [`Bash`](https://github.com/carmelosantana?tab=repositories&q=&type=&language=bash)
+- 📂 `MySQL` `memcached`
+- 🔨 `Composer` `git` `svn`
+- 📰 `WordPress` `bedrock` `wp-cli` `Carbon Fields` `Gutenberg`
+
 **Contact**
 
 - 🤙 ‪<a href="tel:+1845-476-8916">+1 (845) 476-8916</a>
