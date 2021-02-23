@@ -7,20 +7,21 @@ Open-source software has played a pivotal role in my life. Providing this self-t
 **About**
 
 - 🧘‍♂️ Increasing mindfulness with daily meditation
-- 📜 Researching smart contracts
+- 📚 Researching blockchain + smart contracts
 - 🍃 Wim Hof
 - 🤝 He/Him
 
 **Contact**
 
 - 🤙 ‪<a href="tel:+1845-476-8916">+1 (845) 476-8916</a>
+- 📜 [Resume](https://carmelosantana.com/app/uploads/2021/02/Carmelo-Santana-Public-Resume.pdf)
 - 💼 [Linkedin](https://www.linkedin.com/in/carmelosantana/)
 - 📢 [Twitter](https://twitter.com/carmelosantana)
 - 🌎 [Website](https://carmelosantana.com/)
 
 ## Latest Projects
 
-### [SendADF](https://github.com/carmelosantana/sendadf)
+### [SendADF](https://sendadf.com/)
 
 <img src="https://media-exp1.licdn.com/dms/image/C5612AQH7cycmjitIdw/article-cover_image-shrink_720_1280/0/1612997177991?e=1619049600&v=beta&t=DCneSaDyoTU0p2LIZYJuS_bgbwZOtpE5WnKaAXo0Cwg" width="100%" />
 
