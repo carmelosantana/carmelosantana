@@ -1,17 +1,10 @@
     A passionate developer who’s grateful for all things open-source.
 
-## Hello World!
-
-Open-source software has played a pivotal role in my life. Providing this self-taught developer with countless opportunities to grow both personally and professionally. In an effort to give back I’m creating new open-source projects while contributing to those I care about whenever possible. This presents a unique opportunity for my children to get a glimpse of what has driven my career and digital direction all these years.
-
-**Latest**
-- 📌 [Dailies](https://carmelosantana.com/inspired-by-beeple-4361/)
-
 **About**
 
-- 🧘‍♂️ Increasing mindfulness with daily meditation
-- 📚 Researching blockchain + smart contracts
-- 🧙 Wim Hof
+- 🧘 Increasing mindfulness with daily meditation
+- 🚶 Walking ~150 miles per month
+- 🧙 [Wim Hof](https://youtu.be/tybOi4hjZFQ)
 - 🤝 He/Him
 
 **Software**
