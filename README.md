@@ -16,7 +16,6 @@
 
 **Contact**
 
-- 🤙 ‪<a href="tel:+1845-476-8916">+1 (845) 476-8916</a>
 - 📜 [Resume](https://carmelosantana.com/app/uploads/2021/02/Carmelo-Santana-Public-Resume.pdf)
 - 💼 [Linkedin](https://www.linkedin.com/in/carmelosantana/)
 - 📢 [Twitter](https://twitter.com/carmelosantana)
