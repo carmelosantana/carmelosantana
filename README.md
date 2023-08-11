@@ -2,10 +2,9 @@
 
 **About**
 
-- 🧘 Increasing mindfulness with daily meditation
-- 🚶 Walking ~150 miles per month
+- 🧘 Increasing mindfulness with breath work and daily meditation
 - 🧙 [Wim Hof](https://youtu.be/tybOi4hjZFQ)
-- 🤝 He/Him
+- 🤝 he/him
 
 **Software**
 
@@ -16,10 +15,10 @@
 
 **Contact**
 
-- 📜 [Resume](https://carmelosantana.com/app/uploads/2021/02/Carmelo-Santana-Public-Resume.pdf)
-- 💼 [Linkedin](https://www.linkedin.com/in/carmelosantana/)
-- 📢 [Twitter](https://twitter.com/carmelosantana)
-- 🌎 [Website](https://carmelosantana.com/)
+- [Resume](https://carmelosantana.com/resume/)
+- [Linkedin](https://www.linkedin.com/in/carmelosantana/)
+- [Twitter](https://twitter.com/carmelosantana)
+- [Website](https://carmelosantana.com/)
 
 ---
 
